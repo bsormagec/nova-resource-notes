@@ -1,5 +1,5 @@
 {
-    "name": "digitalcloud/nova-resource-notes",
+    "name": "sormagec/nova-resource-notes",
     "description": "A Laravel Nova Resource Note.",
     "keywords": [
         "laravel",
@@ -11,6 +11,12 @@
             "name": "Motaz Marouf",
             "email": "m.marouf@dce.sa",
             "homepage": "https://dce.sa",
+            "role": "Developer"
+        },
+        {
+            "name": "Burak Sormageç",
+            "email": "burak@sormagec.com",
+            "homepage": "http://sormagec.com",
             "role": "Developer"
         }
     ],
